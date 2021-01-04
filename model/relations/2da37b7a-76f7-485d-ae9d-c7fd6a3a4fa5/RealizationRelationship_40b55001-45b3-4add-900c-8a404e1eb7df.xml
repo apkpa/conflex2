@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Какое устройство системы обеспечивает такое поведение?"
+    id="40b55001-45b3-4add-900c-8a404e1eb7df">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_87f41057-16d1-48cb-9d06-1215154de56e.xml#87f41057-16d1-48cb-9d06-1215154de56e"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_b29ec6a6-47c1-4ccb-a4cd-26a97f2dab53.xml#b29ec6a6-47c1-4ccb-a4cd-26a97f2dab53"/>
+</archimate:RealizationRelationship>

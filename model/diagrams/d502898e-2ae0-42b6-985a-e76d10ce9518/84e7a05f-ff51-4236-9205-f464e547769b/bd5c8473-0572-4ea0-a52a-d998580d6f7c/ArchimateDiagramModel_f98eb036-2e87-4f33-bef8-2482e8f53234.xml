@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление закупками"
+    id="f98eb036-2e87-4f33-bef8-2482e8f53234">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="30780163-7cce-462e-9b76-b96c16547e61">
+    <bounds
+        x="24"
+        y="96"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_523ec513-5a92-4f55-9643-e4df1c1e7790.xml#523ec513-5a92-4f55-9643-e4df1c1e7790"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="74e57aa0-8796-418e-a447-9e71842a37dd">
+    <bounds
+        x="24"
+        y="168"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_74d62bd1-f981-4411-9a8c-8f3375716d8c.xml#74d62bd1-f981-4411-9a8c-8f3375716d8c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="819bfe73-a21b-48a1-9c49-37e10bee88f1">
+    <bounds
+        x="24"
+        y="24"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_16ac31e2-32a2-4f11-9370-f67bcb1f6b00.xml#16ac31e2-32a2-4f11-9370-f67bcb1f6b00"/>
+  </children>
+</archimate:ArchimateDiagramModel>

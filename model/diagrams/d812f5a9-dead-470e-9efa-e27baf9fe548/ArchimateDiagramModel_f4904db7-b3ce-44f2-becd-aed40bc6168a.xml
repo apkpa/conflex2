@@ -1,0 +1,29 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4. Воплощение системы"
+    id="f4904db7-b3ce-44f2-becd-aed40bc6168a">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="77822624-b56f-41b9-85b9-4bfe9a3253a0"
+      name="1 очередь"
+      textAlignment="1">
+    <bounds
+        x="36"
+        y="48"
+        width="400"
+        height="565"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="c525e849-167a-4a0e-84fb-a4850d031bef">
+      <bounds
+          x="12"
+          y="36"
+          width="193"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_9771201a-6812-4ea9-945a-ca0895f6623d.xml#9771201a-6812-4ea9-945a-ca0895f6623d"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

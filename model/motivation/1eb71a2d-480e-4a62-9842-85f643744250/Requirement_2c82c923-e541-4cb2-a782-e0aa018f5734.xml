@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="номера дизайна"
+    id="2c82c923-e541-4cb2-a782-e0aa018f5734"
+    documentation="Реализация привязанных к номенклатуре номеров дизайнов с возможностью создания нового порядкового номера дизайна"/>

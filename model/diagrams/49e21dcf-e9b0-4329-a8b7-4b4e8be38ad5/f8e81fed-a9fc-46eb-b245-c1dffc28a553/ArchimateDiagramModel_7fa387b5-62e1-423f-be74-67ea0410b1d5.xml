@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1С:ERP Закупки"
+    id="7fa387b5-62e1-423f-be74-67ea0410b1d5">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="ca57303f-0bb3-4a9d-bf67-02342b1f0f99">
+    <bounds
+        x="36"
+        y="24"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_523ec513-5a92-4f55-9643-e4df1c1e7790.xml#523ec513-5a92-4f55-9643-e4df1c1e7790"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="1ae5db63-181a-4816-b7e8-7b202a8fc1ae">
+    <bounds
+        x="36"
+        y="96"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_74d62bd1-f981-4411-9a8c-8f3375716d8c.xml#74d62bd1-f981-4411-9a8c-8f3375716d8c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="4e9ab9f2-1d6f-4c51-afc9-0adce10b820a">
+    <bounds
+        x="36"
+        y="168"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_f98eb036-2e87-4f33-bef8-2482e8f53234.xml#f98eb036-2e87-4f33-bef8-2482e8f53234"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5. Финансовая оценка"
+    id="eddb20d5-4ad7-4afd-85ca-33a2fbaccd45">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="991aa76e-d1f3-40c4-981e-e91bff1df6eb"
+      name="Входы"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="aca84dcd-ab23-4bb6-b2a2-3209e2cb7961"
+      name="Практика"
+      textAlignment="1">
+    <bounds
+        x="300"
+        y="24"
+        width="793"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="87085fdf-f157-409b-b6bb-91f7b62cba98"
+      name="Выходы"
+      textAlignment="1">
+    <bounds
+        x="1128"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+</archimate:ArchimateDiagramModel>

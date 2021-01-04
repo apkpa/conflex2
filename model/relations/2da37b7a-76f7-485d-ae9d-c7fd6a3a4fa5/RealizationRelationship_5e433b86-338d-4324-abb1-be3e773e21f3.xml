@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Да"
+    id="5e433b86-338d-4324-abb1-be3e773e21f3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dc1ee89f-ad97-4f4e-8ea5-dd785ac91580.xml#dc1ee89f-ad97-4f4e-8ea5-dd785ac91580"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_c9d0ec5b-1a11-4a0f-b4a0-a299ef2c221f.xml#c9d0ec5b-1a11-4a0f-b4a0-a299ef2c221f"/>
+</archimate:RealizationRelationship>

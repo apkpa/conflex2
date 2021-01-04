@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="8. Согласование с клиентом"
+    id="f25999e8-8c37-4a75-bb6c-7aff1ba4410f">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="81366b41-613d-42fb-8ec9-64e2288df9ef"
+      name="Входы"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="76c310f0-f54d-4406-9329-fce3081de9b1"
+      name="Практика"
+      textAlignment="1">
+    <bounds
+        x="300"
+        y="24"
+        width="793"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="c8520bae-2306-4c22-8dc5-e5988edff061"
+      name="Выходы"
+      textAlignment="1">
+    <bounds
+        x="1128"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+</archimate:ArchimateDiagramModel>

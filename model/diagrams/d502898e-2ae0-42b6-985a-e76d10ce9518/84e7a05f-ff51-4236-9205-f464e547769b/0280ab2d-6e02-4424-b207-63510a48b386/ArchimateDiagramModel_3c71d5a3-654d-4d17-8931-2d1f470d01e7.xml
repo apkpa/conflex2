@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доставка"
+    id="3c71d5a3-654d-4d17-8931-2d1f470d01e7">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="aeefca6f-28b6-4a60-95a6-2d8853014f0b">
+    <bounds
+        x="24"
+        y="24"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_a78a049c-9015-4885-99b2-8bc2ac5333a8.xml#a78a049c-9015-4885-99b2-8bc2ac5333a8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="bfa7a8d0-87b5-4fbb-9bad-0add06b4ac72">
+    <bounds
+        x="24"
+        y="108"
+        width="157"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_18660190-b6c0-4f0e-ad89-0703349b63a0.xml#18660190-b6c0-4f0e-ad89-0703349b63a0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

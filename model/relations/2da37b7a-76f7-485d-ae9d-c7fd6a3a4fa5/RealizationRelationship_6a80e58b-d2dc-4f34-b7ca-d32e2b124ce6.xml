@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Почему?"
+    id="6a80e58b-d2dc-4f34-b7ca-d32e2b124ce6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dc1ee89f-ad97-4f4e-8ea5-dd785ac91580.xml#dc1ee89f-ad97-4f4e-8ea5-dd785ac91580"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_c5aa3430-5747-4bb0-92c1-e4cfccc095a5.xml#c5aa3430-5747-4bb0-92c1-e4cfccc095a5"/>
+</archimate:RealizationRelationship>

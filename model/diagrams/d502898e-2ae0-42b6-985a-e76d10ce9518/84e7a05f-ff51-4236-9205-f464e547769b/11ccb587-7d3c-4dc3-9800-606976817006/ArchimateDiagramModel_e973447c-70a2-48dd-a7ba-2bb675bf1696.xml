@@ -1,0 +1,39 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Производство потоки"
+    id="e973447c-70a2-48dd-a7ba-2bb675bf1696">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="0e63fd9d-5e21-4577-8415-905246a0322f"
+      name="Входы"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="0c48c9cf-5cdc-4792-bbe6-6889ef19eff1"
+      name="Практика"
+      textAlignment="1">
+    <bounds
+        x="300"
+        y="24"
+        width="793"
+        height="661"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="c53df0ca-0699-4175-b763-c0a5a5638cf8"
+      name="Выходы"
+      textAlignment="1">
+    <bounds
+        x="1128"
+        y="24"
+        width="253"
+        height="661"/>
+  </children>
+</archimate:ArchimateDiagramModel>

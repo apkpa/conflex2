@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление складами"
+    id="4f9ee8b2-7963-4345-9396-b3fb9f789e18">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="50d3590b-eb81-4b35-b68e-ca7723e9732f">
+    <bounds
+        x="57"
+        y="39"
+        width="160"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_01bed3bd-36a4-47f5-a2eb-51a239bb8a12.xml#01bed3bd-36a4-47f5-a2eb-51a239bb8a12"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="c41da5bc-7c5f-49ff-9116-1ffe202391b6">
+    <bounds
+        x="57"
+        y="108"
+        width="160"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_cafcd145-8d30-4199-995d-7ebec65a84ff.xml#cafcd145-8d30-4199-995d-7ebec65a84ff"/>
+  </children>
+</archimate:ArchimateDiagramModel>

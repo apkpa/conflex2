@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="агрегировать несколько юридических лиц"
+    id="7d755117-8f5a-47ac-9f10-790d0ad87887"
+    documentation="агрегировать несколько юридических лиц, относящихся к одному заказчику-партнёру"/>

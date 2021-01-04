@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="учет юридических лиц контрагентов "
+    id="2ad25256-260f-4074-8c4e-d9d401c57aa7"
+    documentation="вести учет юридических лиц контрагентов с привязкой к контрагентам-партнёрам (как покупатели, так и поставщики)"/>

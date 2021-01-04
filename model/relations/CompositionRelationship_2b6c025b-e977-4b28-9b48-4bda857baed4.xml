@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="БП часть Практики"
+    id="2b6c025b-e977-4b28-9b48-4bda857baed4">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_513ed4c8-de9e-436c-9233-5ef01c094e00.xml#513ed4c8-de9e-436c-9233-5ef01c094e00"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_eae9aaff-cc81-4d66-b90a-e10c3ba01e48.xml#eae9aaff-cc81-4d66-b90a-e10c3ba01e48"/>
+</archimate:CompositionRelationship>

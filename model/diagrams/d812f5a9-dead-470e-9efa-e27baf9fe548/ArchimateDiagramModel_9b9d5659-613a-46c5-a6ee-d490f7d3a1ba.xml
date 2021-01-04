@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Внешние проектные роли"
+    id="9b9d5659-613a-46c5-a6ee-d490f7d3a1ba">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="e0e3f9c6-321b-48e9-8c02-6b461e94316b">
+    <bounds
+        x="24"
+        y="24"
+        width="133"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_d09d82ac-dc70-45cd-9ae4-1b63df75feef.xml#d09d82ac-dc70-45cd-9ae4-1b63df75feef"/>
+  </children>
+</archimate:ArchimateDiagramModel>

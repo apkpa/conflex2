@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="какое поведение системы реализует требования стейкхолера?"
+    id="0770ba3e-8f12-4b03-b8db-feb41123ab49">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_c5aa3430-5747-4bb0-92c1-e4cfccc095a5.xml#c5aa3430-5747-4bb0-92c1-e4cfccc095a5"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_b29ec6a6-47c1-4ccb-a4cd-26a97f2dab53.xml#b29ec6a6-47c1-4ccb-a4cd-26a97f2dab53"/>
+</archimate:AssociationRelationship>

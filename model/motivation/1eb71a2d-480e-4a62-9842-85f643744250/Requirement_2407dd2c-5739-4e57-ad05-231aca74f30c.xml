@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="учет номенклатуры клиента"
+    id="2407dd2c-5739-4e57-ad05-231aca74f30c"
+    documentation="вести учет номенклатуры клиента (наименование, штрихкод, единица измерения) с привязкой к внутренней номенклатуре"/>

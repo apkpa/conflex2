@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="взаимодействия с клиентами"
+    id="0ef9150d-a09b-4c5d-ac3e-0ed9e9a4c7b4"
+    documentation="фиксировать информацию по взаимодействиям с клиентами (в т.ч. запись звонков), интересы, сценарии работы"/>

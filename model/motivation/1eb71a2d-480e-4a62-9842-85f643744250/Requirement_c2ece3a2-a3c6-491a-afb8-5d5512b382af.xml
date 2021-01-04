@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="отчет продаж по новым клиентам"
+    id="c2ece3a2-a3c6-491a-afb8-5d5512b382af"
+    documentation="формировать отчет продаж по новым клиентам"/>

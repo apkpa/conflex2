@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="реестр клиентов"
+    id="f11c3c48-90fa-4feb-87b4-746f162e092e"
+    documentation="вести реестр клиентов (в т.ч. по сегментам и бизнес-регионам)"/>

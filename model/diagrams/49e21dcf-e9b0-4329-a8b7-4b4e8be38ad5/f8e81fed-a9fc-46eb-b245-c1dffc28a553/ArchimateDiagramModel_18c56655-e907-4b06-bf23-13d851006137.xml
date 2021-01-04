@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1С:ERP Продажи"
+    id="18c56655-e907-4b06-bf23-13d851006137">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="dec62b7d-2aef-4602-a4e7-381a5dae3b2c">
+    <bounds
+        x="36"
+        y="24"
+        width="181"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_db028261-b143-485e-917d-8d065adf2169.xml#db028261-b143-485e-917d-8d065adf2169"/>
+  </children>
+</archimate:ArchimateDiagramModel>
