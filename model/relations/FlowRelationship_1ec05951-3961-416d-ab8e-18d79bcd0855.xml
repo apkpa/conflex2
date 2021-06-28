@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Заказ на доставку"
+    id="1ec05951-3961-416d-ab8e-18d79bcd0855">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_98768be5-5f32-458f-8af6-c5a81603ebbc.xml#98768be5-5f32-458f-8af6-c5a81603ebbc"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a055d48e-9d5c-4fea-b4d0-b1ff972aeff3.xml#a055d48e-9d5c-4fea-b4d0-b1ff972aeff3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Итоговый расчет (РС)"
+    id="dceae47d-9976-4456-a402-0443d6903c68">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa8e5403-6be9-4264-8915-ef9ab6c8a6e0.xml#fa8e5403-6be9-4264-8915-ef9ab6c8a6e0"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d.xml#8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d"/>
+</archimate:FlowRelationship>

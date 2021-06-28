@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="резерв ТМЦ"
+    id="1dca615c-7717-41a3-a816-0a1c9d2e76ec"
+    documentation="на основе тиража будет создаваться документ , аналог справки обеспечения сырьем.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa8e5403-6be9-4264-8915-ef9ab6c8a6e0.xml#fa8e5403-6be9-4264-8915-ef9ab6c8a6e0"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_20698081-98f0-4b57-83f1-f373949c3fe1.xml#20698081-98f0-4b57-83f1-f373949c3fe1"/>
+</archimate:FlowRelationship>

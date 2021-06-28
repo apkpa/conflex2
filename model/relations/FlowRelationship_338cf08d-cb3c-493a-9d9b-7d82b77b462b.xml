@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Потребность в ТМЦ"
+    id="338cf08d-cb3c-493a-9d9b-7d82b77b462b">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d.xml#8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_20698081-98f0-4b57-83f1-f373949c3fe1.xml#20698081-98f0-4b57-83f1-f373949c3fe1"/>
+</archimate:FlowRelationship>

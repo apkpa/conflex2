@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ТМЦ на склад"
+    id="bbedf0fb-20b4-48a3-8b19-c5bff8d3533d">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a1ce3066-d5cd-42bd-8533-7a077db67fda.xml#a1ce3066-d5cd-42bd-8533-7a077db67fda"/>
+  <target
+      xsi:type="archimate:Facility"
+      href="Facility_ed865c98-1b0d-4f2c-92f1-ca1f98934bb9.xml#ed865c98-1b0d-4f2c-92f1-ca1f98934bb9"/>
+</archimate:FlowRelationship>

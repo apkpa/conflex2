@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ТМЦ"
+    id="06d59004-9b0d-4f07-afa5-9c1390b5fdf5">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_8b228954-0587-469b-b80e-43be29f6d0fd.xml#8b228954-0587-469b-b80e-43be29f6d0fd"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d.xml#8d5c858a-17e1-4e65-bcc9-34cdf5ef8c9d"/>
+</archimate:FlowRelationship>

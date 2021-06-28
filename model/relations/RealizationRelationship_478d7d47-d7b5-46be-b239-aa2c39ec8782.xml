@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="реализовать доставку"
+    id="478d7d47-d7b5-46be-b239-aa2c39ec8782">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d2329003-1f4d-4d6b-90e0-875152b902f2.xml#d2329003-1f4d-4d6b-90e0-875152b902f2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a055d48e-9d5c-4fea-b4d0-b1ff972aeff3.xml#a055d48e-9d5c-4fea-b4d0-b1ff972aeff3"/>
+</archimate:RealizationRelationship>

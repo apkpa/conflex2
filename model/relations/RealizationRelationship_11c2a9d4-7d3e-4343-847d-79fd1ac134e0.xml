@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="реализовать складирование"
+    id="11c2a9d4-7d3e-4343-847d-79fd1ac134e0">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_a1ce3066-d5cd-42bd-8533-7a077db67fda.xml#a1ce3066-d5cd-42bd-8533-7a077db67fda"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_975490f0-00be-43c6-982f-f282355e9366.xml#975490f0-00be-43c6-982f-f282355e9366"/>
+</archimate:RealizationRelationship>
