@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Архитектура решения"
+    name="Архитектура 2я очередь"
     id="068c494c-c494-43df-8f3d-ac8b651abcb3">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -571,6 +571,10 @@
         xsi:type="archimate:DiagramModelReference"
         id="39a209f7-10b0-4e19-9f5e-9e822b2e0b0b"
         textAlignment="1">
+      <sourceConnections
+          id="5d9c917c-a546-4895-9c34-a9474f8802e4"
+          source="39a209f7-10b0-4e19-9f5e-9e822b2e0b0b"
+          target="96989ded-8142-4754-883b-7a27cac04ac0"/>
       <bounds
           x="24"
           y="612"
@@ -777,5 +781,17 @@
     <archimateElement
         xsi:type="archimate:Resource"
         href="Resource_a58dcc53-8ad9-4929-9b50-f77eabd032ca.xml#a58dcc53-8ad9-4929-9b50-f77eabd032ca"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="96989ded-8142-4754-883b-7a27cac04ac0"
+      targetConnections="5d9c917c-a546-4895-9c34-a9474f8802e4"
+      textAlignment="1"
+      content="Подготовка к запуску (тестированию)">
+    <bounds
+        x="300"
+        y="546"
+        width="122"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>
