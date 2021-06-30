@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Архитектура 1я очередь"
+    name="Архитектура процессная"
     id="a032031a-dad9-433b-b9ce-1e597dd2a412">
   <children
       xsi:type="archimate:DiagramModelGroup"

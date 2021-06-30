@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Архитектура 2я очередь"
+    name="Архитектура системная"
     id="068c494c-c494-43df-8f3d-ac8b651abcb3">
   <children
       xsi:type="archimate:DiagramModelReference"
