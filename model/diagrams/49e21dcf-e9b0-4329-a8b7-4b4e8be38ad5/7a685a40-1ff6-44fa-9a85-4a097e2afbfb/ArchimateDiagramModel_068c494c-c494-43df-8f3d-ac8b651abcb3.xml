@@ -90,7 +90,7 @@
         target="b0ffca1e-5ca9-4f26-a775-70f3790df86b"/>
     <bounds
         x="156"
-        y="168"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -121,7 +121,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="168"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -151,7 +151,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="99"
+        y="75"
         width="120"
         height="55"/>
     <archimateElement
@@ -173,7 +173,7 @@
     </sourceConnections>
     <bounds
         x="15"
-        y="239"
+        y="215"
         width="120"
         height="55"/>
     <archimateElement
