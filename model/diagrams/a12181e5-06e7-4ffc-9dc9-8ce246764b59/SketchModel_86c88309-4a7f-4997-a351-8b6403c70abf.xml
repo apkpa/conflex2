@@ -1,0 +1,46 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Новый эскиз"
+    id="86c88309-4a7f-4997-a351-8b6403c70abf"
+    background="0">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="5ee9fe19-9721-44a6-876b-309a678654e5"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff">
+    <bounds
+        x="240"
+        y="167"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="9087f433-60d3-4270-b587-7b977182caea"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7">
+    <bounds
+        x="456"
+        y="167"
+        width="135"
+        height="70"/>
+  </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="8bccf351-a632-4661-8bee-a6cdb50e448b"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#c9e7b7">
+    <bounds
+        x="684"
+        y="167"
+        width="135"
+        height="70"/>
+  </children>
+</archimate:SketchModel>
